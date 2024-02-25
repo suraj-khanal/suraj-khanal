@@ -40,6 +40,15 @@
   </div>
 
   <div>
+    <h4>Testing</h4>
+     <a href="https://github.com/junit-team/junit5" target="_blank" rel="noreferrer"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="60" height="60"/></a>
+     <a href="https://github.com/mockito/mockito" target="_blank" rel="noreferrer"><img src="https://github.com/mockito/mockito.github.io/raw/master/img/logo%402x.png" alt="mockito" width="60" height="60"/></a>
+         <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="60" height="60"/></a>
+  </div>
+
+
+
+  <div>
     <h4>Tools</h4>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a>
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/></a>
